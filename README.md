@@ -1,2 +1,2 @@
-# ele520
-My lab assignments in Machine learning
+# Machine learning
+This repository contains my lab assignments from the course Machine learning at the University of Stavanger.
