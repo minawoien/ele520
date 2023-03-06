@@ -12,5 +12,5 @@ def plot(p, x_1, x_2, col, db):
             p[1] >= p[0], p[1], np.nan), color=col[1])
     else:
         for i in range(len(p)):
-            ax.plot_surface(x_1, x_2, p[i], color=col[i])
+            ax.plot_wireframe(x_1, x_2, p[i], color=col[i])
     plt.show()

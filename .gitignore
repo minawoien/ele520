@@ -1,2 +1,5 @@
 .[Dd]s_store
 **/__pycache__/
+**/sklearn-venv
+**/venv
+**/.ipynb_checkpoints
